@@ -1,0 +1,24 @@
+{ "object":
+    {
+     "gid":6,
+     "height":15.2928932188134,
+     "id":1,
+     "name":"",
+     "properties":[
+            {
+             "name":"rotSpeed",
+             "type":"float",
+             "value":2
+            }],
+     "rotation":0,
+     "type":"Tree",
+     "visible":true,
+     "width":16.1767766952966
+    },
+ "tileset":
+    {
+     "firstgid":1,
+     "source":"forest.json"
+    },
+ "type":"template"
+}
